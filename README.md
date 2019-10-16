@@ -8,6 +8,6 @@ Programme zur Auswertung und genommene Datensätze zum "Praktikum IV: Atome, Mol
 
 428: Röntgenstrahlung und Materialanalyse
 
-[441: Weißlichspektroskopie an Gold-Nanostrukturen](https://github.com/dschuechter/PraktikumIV/tree/master/Versuch_441)
+[441: Weißlichspektroskopie an Gold-Nanostrukturen](https://github.com/dschuechter/PraktikumIVPublic/tree/master/Versuch_441)
 
 443: Spektroskopie von Sternen
