@@ -24,3 +24,10 @@ in einen Plot die 0 bzw. 90 Grad Polarisation dargestellt.
 ### Generierung von Übersichtsplots
 Um eine Messreihe (z.B. A1-A5) zu generieren muss das Python3 Script "plot_series.py" mit dem Befehl "python3 plot_series.py $Messreihe $AnzahlDerEinträge"
 ($Messreihe und $AnzahlDerEinträge durch entsprechende Zahlen ersetzen) aufgerufen werden.
+
+### Ermittlung der Minimas
+Um die Minimas der jeweiligen Kurven zu ermitteln wurde das Skript "plot_series_gauss.py" verwendet. Dieses wird genauso wie die das Skript "plot_series.py" über den Befehl "python3 plot_series.py $Messreihe $AnzahlDerEinträge" verwendet und gibt ein entsprechendes Bild aus. Hier muss je nach Messreihe der Bereich für den Fit händisch angepasst werden.
+
+
+### Generierung der Minima Plots
+Zur erstellung der Minima Plots wurden die Skripte "plot_minima_0.py" bzw. "plot_minima_90" verwendet (entsprechend der Datensätze/Polarisation anzuwenden). Diese werden im entsprechenden Verzeichnis ausgeführt und der gewünschte Datensatz eingetragen. Anschließend speichert das Programm ein entsprechendes Bild des Plots.
