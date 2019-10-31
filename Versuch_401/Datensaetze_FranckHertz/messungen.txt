@@ -1,0 +1,10 @@
+165T_1_5V_gegen
+165T_1V_gegen
+165T_2_5V_gegen
+165T_2V_gegen
+165T_3V_gegen
+165T_4V_gegen
+172T_2V_gegen
+175T_2V_gegen
+180T_2V_gegen
+195T_2V_gegen

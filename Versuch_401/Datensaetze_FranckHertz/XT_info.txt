@@ -1,0 +1,2 @@
+Gegenspannung U_2=2V
+Heizspannung U_H=6.3V
