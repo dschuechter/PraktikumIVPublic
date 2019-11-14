@@ -4,9 +4,12 @@ Diese dienen ausschließlich zur Orientierung und nicht als eigens zu verwendend
 
 Sämtliche Skripte sind in Python geschrieben und führen ihre Namensgebende Funktion aus.
 Folgende Skripte gehören zu folgenden Teilversuchen und sollten nacheinander ausgeführt werden:
-⋅⋅* **Bragg-Reflektion**: Schwerpunkte_40min.py, Schwerpunkte_12h.py
-⋅⋅* **Materialanalyse**: Referenz.py, Masse.py
-⋅⋅* **Laue-Aufnahme**: KoordinatenConverter.py, MillerShowAll.py, GenFromMiller.py, LauePlot.py
+
+**Bragg-Reflektion**: Schwerpunkte_40min.py, Schwerpunkte_12h.py
+
+**Materialanalyse**: Referenz.py, Masse.py
+
+**Laue-Aufnahme**: KoordinatenConverter.py, MillerShowAll.py, GenFromMiller.py, LauePlot.py
 
 Alle Skripte außer Masse.py und KoordinatenConver.py sind zur Erstellung der Plots und deren Fits zuständig. Die meisten Skripte geben
 die Resultate direkt als weiterverwendbaren Printout aus. Diese können dann kopiert oder direkt in text Dateien geschrieben werden.
