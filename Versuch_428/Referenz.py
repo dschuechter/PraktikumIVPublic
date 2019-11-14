@@ -1,4 +1,4 @@
-#Skript zur Erstellung der Referenzspektren inklusive angepassten Gaussfit
+#Skript zur Erstellung der Referenz- und Probespektren inklusive angepassten Gaussfit
 import sys
 import argparse
 import numpy as np
