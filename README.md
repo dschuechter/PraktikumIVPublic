@@ -3,7 +3,7 @@ Programme zur Auswertung und genommene Datensätze zum "Praktikum IV: Atome, Mol
 
 [401: Elektronische Übergänge im Atom](https://github.com/dschuechter/PraktikumIVPublic/tree/master/Versuch_401)
 
-402: Quantelung von Energie
+[402: Quantelung von Energie](https://github.com/dschuechter/PraktikumIVPublic/tree/master/Versuch_402)
 
 [428: Röntgenstrahlung und Materialanalyse](https://github.com/dschuechter/PraktikumIVPublic/tree/master/Versuch_428)
 
