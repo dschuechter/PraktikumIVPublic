@@ -1,4 +1,4 @@
-# Versuch 402: Quantelung von Energie
+# Versuch 464: Spektroskopie von Sternen
 In diesem Repository befinden sich sämtliche Programme und unsere Datensätze die zur Auswertung des Versuchs 464 verwendet wurden.
 Diese dienen ausschließlich zur Orientierung und nicht als eigens zu verwendende Datensätze.
 
